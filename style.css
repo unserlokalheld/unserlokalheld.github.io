@@ -1,0 +1,29 @@
+body {
+  background-color: #f5e8d3;
+  font-family: "American Typewriter", Courier, "Courier New", monospace;
+  color: #f5e8d3;
+}
+
+#outer {
+  width: 100%;
+  text-align: center;
+}
+
+#main {
+  max-width: 800px;
+  width: 90%;
+  margin: 0 auto;
+  background-color: #2E1826; /* R=2E G=18 B=26 */
+}
+
+img {
+  width: 100%;
+}
+
+p {
+ padding: 10px;
+}
+
+a {
+ color: #f5e8d3;
+}
