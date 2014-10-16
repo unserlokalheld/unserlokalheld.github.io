@@ -2,6 +2,7 @@ body {
   background-color: #f5e8d3;
   font-family: "American Typewriter", Courier, "Courier New", monospace;
   color: #f5e8d3;
+  font-weight: 300;
 }
 
 #outer {
@@ -16,7 +17,7 @@ body {
   background-color: #2E1826; /* R=2E G=18 B=26 */
 }
 
-img {
+img.hauptgrafik {
   width: 100%;
 }
 
@@ -26,4 +27,9 @@ p {
 
 a {
  color: #f5e8d3;
+}
+
+.socialicons a {
+  margin: 3px;
+  text-decoration: none;
 }
