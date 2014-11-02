@@ -1,7 +1,7 @@
 body {
   background-color: #f5e8d3;
   font-family: "American Typewriter", Courier, "Courier New", monospace;
-  color: #f5e8d3;
+  color: #f5e8d3; 
   font-weight: 300;
 }
 
@@ -33,3 +33,5 @@ a {
   margin: 3px;
   text-decoration: none;
 }
+
+
