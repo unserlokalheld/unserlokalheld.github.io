@@ -13,7 +13,7 @@ body {
   max-width: 800px;
   width: 90%;
   margin: 0 auto;
-  background-color: #2E1826; /* R=2E G=18 B=26 */
+  background-color: #301221; /* R=48 G=18 B=33 */
   color: #f5e8d3;
 }
 
@@ -23,11 +23,37 @@ img.hauptgrafik {
 
 p {
  padding: 10px;
+ font-size: 15pt;
+ margin-left: 30px;
+ margin-right: 30px;
+ line-height: 1.5;
+}
+
+p.align-left {
+  text-align: left;
 }
 
 a {
  color: #f5e8d3;
 }
+
+hr { 
+  background-image: url("hr.png");
+  display: block;
+  border: none;
+  height: 10px;
+  margin: 20px 40px;
+  clear: both;
+}
+
+.umkreis {
+  margin-right: 30px;
+  margin-left: 20px;
+}
+
+.produktpalette {
+  margin-top: 20px;
+} 
 
 .socialicons a {
   margin: 3px;
