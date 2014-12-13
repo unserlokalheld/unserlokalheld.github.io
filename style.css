@@ -37,7 +37,7 @@ a {
  color: #f5e8d3;
 }
 
-hr { 
+hr {
   background-image: url("hr.png");
   display: block;
   border: none;
@@ -53,9 +53,14 @@ hr {
 
 .produktpalette {
   margin-top: 20px;
-} 
+}
 
 .socialicons a {
   margin: 3px;
   text-decoration: none;
+}
+
+.socialicons img {
+  width: 40px;
+  height: 40px;
 }
