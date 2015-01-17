@@ -1,0 +1,4 @@
+source:      .
+destination: ./_site
+layouts:     ./_layouts
+includes:    ./_includes
